@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">EasterDate</string>
+    <string name="main_title">Insert a year between 34 A.D. and 2499 A.D.</string>
+    <string name="year_hint">Year</string>
+    <string name="compute_button">Compute</string>
+    <string name="easter_day">Easter day</string>
+    <string name="date_1">%1$d March</string>
+    <string name="date_2">%1$d April</string>
+    <string name="info_desc">Application of Gauss algorithm for calculating the date of Easter.</string>
+    <string name="version_title">VERSION</string>
+    <string name="version_number">1.0.0</string>
+    <string name="author_title">AUTHOR</string>
+    <string name="author_text">Eustachio Maselli, computer engineer and senior mobile application developer.</string>
+    <string name="algorithm_link">Wikipedia page of the Gauss algorithm</string>
+
+    <string name="algorithm_title">Gauss algorithm</string>
+    <string name="wikipedia_page">https://en.m.wikipedia.org/wiki/Computus#Gauss_algorithm</string>
+
+    <string name="exception_1">26 April</string>
+    <string name="exception_2">25 April</string>
+
+    <string name="no_network_alert">Check your Internet connection!</string>
+    <string name="wrong_year_alert">Insert a year in the specified range!</string>
+    <string name="no_support_alert">No compatible application!</string>
+
+</resources>

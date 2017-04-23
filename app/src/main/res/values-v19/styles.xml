@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+
+        <item name="android:textColor">@color/mainColor</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+
+    </style>
+
+    <style name="NoTitlePopup" parent="android:style/android:Theme.Dialog">
+
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+</resources>

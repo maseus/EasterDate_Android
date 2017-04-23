@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="shadow_margin">-4dp</dimen>
+    <dimen name="shadow_bottom">3dp</dimen>
+
+</resources>

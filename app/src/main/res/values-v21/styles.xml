@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <style name="TimePicker" parent="Theme.AppCompat.Light.Dialog">
+
+        <item name="android:windowIsFloating">true</item>
+        <item name="colorPrimary">@color/mainColor</item>
+        <item name="colorPrimaryDark">@color/mainColor</item>
+        <item name="colorAccent">@color/mainColor</item>
+
+    </style>
+
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+
+        <item name="android:textColor">@color/mainColor</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+
+    </style>
+
+    <style name="NoTitlePopup" parent="android:style/android:Theme.Dialog">
+
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+</resources>
